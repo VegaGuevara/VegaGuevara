@@ -59,6 +59,7 @@
 
 ###
 
-<br clear="both">
+
+![snake gif](https://github.com/VegaGuevara/VegaGuevara/blob/output/github-contribution-grid-snake.svg)
 
 
